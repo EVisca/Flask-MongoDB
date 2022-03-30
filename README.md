@@ -1,4 +1,4 @@
-##Python CRUD with Flask and MongoDB
+## Python CRUD with Flask and MongoDB
 
 This simple app was made following this guide for learning whenever I was in doubt about it. I hope it may be as useful to you as it was for me: https://www.youtube.com/watch?v=o8jK5enu4L4 <br />
 
